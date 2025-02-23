@@ -1,0 +1,20 @@
+meta {
+  name: Register new user
+  type: http
+  seq: 2
+}
+
+post {
+  url: https://prescripto-backend-phi.vercel.app/api/user/register
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "name":"mmmee",
+    "email":"m@gmail.com",
+    "password":"12345678"
+  }
+  
+}
