@@ -11,9 +11,7 @@ is a web application designed to simplify the process of booking and managing do
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 ## Features
 
 - **Doctor Information**: Browse detailed profiles of doctors, including their specializations, experience, and availability.
@@ -110,24 +108,3 @@ POST /api/user/upload-profile-image - Upload user profile image
 - **Image Uploads**: Cloudinary
 
 - **Deployment**: Vercel
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-
-- 1- Fork the repository.
-
-- 2- Create a new branch (git checkout -b feature/your-feature).
-
-- 3- Commit your changes (git commit -m 'Add some feature').
-
-- 4- Push to the branch (git push origin feature/your-feature).
-
-- 5- Create a new Pull Request.
-## License
-
-This project is licensed under the MIT License 
-## Contact
-
-For any inquiries, please contact:
-
-**Amr Reda Mohamed** - [Linkedin](https://www.linkedin.com/in/amr-reda-mohamed-870735209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
