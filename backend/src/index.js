@@ -18,7 +18,7 @@ configureCloudinary();
 // Middlewares
 app.use(
   cors({
-    origin: 'https://prescripto-book-doctors.vercel.app', //frontend url
+    origin: 'https://prescripto-frontend-ochre.vercel.app/', //frontend url
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
     credentials: true, // If you still want to include credentials
   })
