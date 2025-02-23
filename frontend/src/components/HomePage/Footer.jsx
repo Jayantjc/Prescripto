@@ -13,10 +13,7 @@ const Footer = () => {
             className="pb-4 h-12 justify-self-center"
           />
           <p className="text-sm text-center md:text-left">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit
-            asperiores quas impedit? Odio adipisci quaerat quia repudiandae
-            tenetur alias beatae eveniet error itaque facere architecto, nostrum
-            vel consectetur, quasi laboriosam?
+            Effortlessly schedule appointments online with our user-friendly system, view available time slots, select your preferred service, and instantly book your session with just a few clicks - all from the convenience of your device
           </p>
         </div>
 
@@ -52,13 +49,13 @@ const Footer = () => {
           <h4 className="pb-5 font-bold text-lg">GET IN TOUCH</h4>
           <ul className="space-y-2 ">
             <li>
-              <a href="tel:+20101250171812314" className="text-sm">
-                +2010125123141411
+              <a href="tel:+91 1234567890" className="text-sm">
+                +91 1234567890
               </a>
             </li>
             <li>
-              <a href="amr.redab1398@gmail.com" className="text-sm">
-                AmrReda@CompanyEmail.com
+              <a href="nsut@gmail.com" className="text-sm">
+                nsut@gmail.com
               </a>
             </li>
           </ul>
@@ -68,7 +65,7 @@ const Footer = () => {
       <hr className="my-4 border-gray-300" />
 
       <div className="grid-cols-4 text-center mb-3">
-        <span>Copyright © 2024 Amr Reda - All Right Reserved.</span>
+        <span>Copyright © 2024 JC - All Right Reserved.</span>
       </div>
     </div>
   );
